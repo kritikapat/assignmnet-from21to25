@@ -1,0 +1,16 @@
+form{
+    color: red;
+    border-style: solid;
+    border-color: green;
+    background-color: black;
+    text-align: center;
+
+}
+.main{
+    width: 600px;
+    margin: auto;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
